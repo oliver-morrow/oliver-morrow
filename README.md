@@ -6,7 +6,7 @@ I am a second year computer engineering student at Queen's University, in Kingst
 ### Tools
 <img alt="Azure" src="https://img.shields.io/badge/Microsoft Azure-black?logo=Microsoft Azure"/> <img alt="Wordpress" src="https://img.shields.io/badge/WordPress-black?logo=WordPress"/>
 ## Contact Me!
-<a href="https://www.linkedin.com/in/oliver-morrow/">
+<a href="https://www.linkedin.com/in/oliver-morrow/" target="_blank">
   <img align="left" alt="Linkedin" src="linkedin.svg" width=20px />
 </a>
 <br />
