@@ -12,4 +12,4 @@ I study Computer Engineering at Queen's and graduate in April 2027. I'm looking 
 
 ## Work
 
-Data & AI Engineer co-op at Sanofi, September 2025 to August 2026. [What I built there](https://olivermorrow.com/work/sanofi)
+Data & AI Engineer co-op at Sanofi, September 2025 to August 2026. [Some of what I built there](https://olivermorrow.com/work/sanofi)
